@@ -1,3 +1,5 @@
+Note: This fork is being used by Backend-Conversions (see https://github.com/Tradeshift/Backend-Conversions/blob/6a49ab23/pom.xml#L990) and contains the following Tradeshift-specific changes: https://github.com/Tradeshift/jsi/pulls?q=is%3Apr+is%3Aclosed
+
 [![Build Status](https://www.travis-ci.org/aled/jsi.png?branch=master)](https://www.travis-ci.org/aled/jsi)
 
 Overview
